@@ -4,6 +4,7 @@
 
 int main()
 {
-    checkTemp(50);
+    checkTemp(60);
+    
     return 0;
 }
