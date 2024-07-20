@@ -1,0 +1,1 @@
+void checkTemp(int curTemp);
